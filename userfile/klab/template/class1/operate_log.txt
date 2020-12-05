@@ -1,0 +1,7 @@
+2020-10-17 15:47:44	127.0.0.1	klab	template	class1		click_list
+2020-10-17 15:47:50	127.0.0.1	klab	template	class1	aaa.html	btn_ok
+2020-10-17 16:04:41	127.0.0.1	klab	template	class1		click_list
+2020-10-17 16:23:12	127.0.0.1	klab	template	class1		click_list
+2020-10-17 16:23:21	127.0.0.1	klab	template	class1	a.html	btn_ok
+2020-10-17 16:23:45	127.0.0.1	klab	template	class1		click_list
+2020-10-17 16:23:46	127.0.0.1	klab	template	class1		click_list

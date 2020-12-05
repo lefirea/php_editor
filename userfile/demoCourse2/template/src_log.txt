@@ -1,0 +1,98 @@
+2016-08-17 22:39:54	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# 	<?php
+$db = new PHP_PDO("コンビニ");
+?>
+2016-08-17 22:39:55	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+$db = new PHP_PDO("コンビニ");
+?>
+2016-08-17 22:41:43	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+?>
+2016-08-17 22:41:44	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+?>
+2016-08-17 22:42:33	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+session_start();
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+
+$sql='select * from 商品データ';
+
+
+?>
+2016-08-17 22:42:34	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+session_start();
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+
+$sql='select * from 商品データ';
+
+
+?>
+2016-08-17 22:42:46	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+session_start();
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+
+$sql='select * from 商品データ';
+
+
+?>aaa
+2016-08-17 22:42:47	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+session_start();
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+
+$sql='select * from 商品データ';
+
+
+?>aaa
+2016-08-17 22:42:47	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+session_start();
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+
+$sql='select * from 商品データ';
+
+
+?>aaa
+2016-08-17 22:44:02	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+session_start();
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+
+$sql='select * from 商品データ';
+$result = $db->query($sql);
+$list = $result->getColumnMeta();
+
+foreach($list as $f){
+	echo $f."<br>";
+}
+?>
+2016-08-17 22:44:03	106.181.111.65	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+session_start();
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+
+$sql='select * from 商品データ';
+$result = $db->query($sql);
+$list = $result->getColumnMeta();
+
+foreach($list as $f){
+	echo $f."<br>";
+}
+?>
+2016-10-24 18:52:16	150.46.201.35	demoCourse2	template	dbconnect_sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+session_start();
+require_once("common.php");
+$db = new PHP_PDO("コンビニ");
+
+$sql='select * from 商品データ';
+$result = $db->query($sql);
+$list = $result->getColumnMeta();
+
+foreach($list as $f){
+	echo $f."<br>";
+}
+?>

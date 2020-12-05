@@ -1,0 +1,42 @@
+2016-08-18 10:54:12	150.46.201.39	demoCourse2	Ntaki	barcode.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+require_once("common.php");
+
+$num = 1029345938125;
+
+echo mk_code($num);
+?>
+2016-08-18 10:54:14	150.46.201.39	demoCourse2	Ntaki	barcode.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+require_once("common.php");
+
+$num = 1029345938125;
+
+echo mk_code($num);
+?>
+2016-08-18 10:54:35	150.46.201.39	demoCourse2	Ntaki	barcode.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+require_once("common.php");
+
+$num = 1029345938125;
+
+echo mk_code($num);
+?>
+2016-08-18 10:54:35	150.46.201.39	demoCourse2	Ntaki	barcode.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+require_once("common.php");
+
+$num = 102934593812;
+
+echo mk_code($num);
+?>
+2016-08-18 10:54:40	150.46.201.39	demoCourse2	Ntaki	barcode.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+require_once("common.php");
+
+$num = 102934593812;
+
+echo mk_code($num);
+?>
+2016-08-18 10:54:41	150.46.201.39	demoCourse2	Ntaki	barcode.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+require_once("common.php");
+
+$num = 1029345938125;
+
+echo mk_code($num);
+?>

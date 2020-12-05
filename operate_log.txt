@@ -1,0 +1,765 @@
+2016-02-17 19:51:24	203.180.29.157	test	test	test	c.php	click_list
+2016-02-17 19:51:24	203.180.29.157	test	test	test	c.php	click_list
+2016-02-17 19:51:28	203.180.29.157	test	test	test	a.php	click_list
+2016-02-17 19:51:28	203.180.29.157	test	test	test	a.php	click_list
+2016-02-17 19:51:29	203.180.29.157	test	test	test	a.php	click_list
+2016-02-17 19:51:29	203.180.29.157	test	test	test	a.php	click_list
+2016-02-17 19:51:29	203.180.29.157	test	test	test	c.php	click_list
+2016-02-17 19:51:30	203.180.29.157	test	test	test	c.php	click_list
+2016-02-17 19:51:30	203.180.29.157	test	test	test	c.php	click_list
+2016-02-23 14:11:49	203.180.29.157	250881	test	lib	lib	新規ファイル	btn_newfile
+2016-02-25 10:22:41	203.180.29.157	250881	test	lib	lib	a.php	click_list
+2016-02-25 10:22:47	203.180.29.157	250881	test	lib	lib	class_dbServerRequest.php	click_list
+2016-03-01 16:11:23	203.180.29.157	250881	test	test	test	bak.php	click_list
+2016-03-08 13:05:03	203.180.29.156	201785	low	shopsite.php	click_list
+2016-03-08 13:05:05	203.180.29.156	201785	low	low	shopsite.php	click_list
+2016-03-08 13:05:11	203.180.29.156	201785	low	low	low	shopsite.php	click_list
+2016-03-08 13:05:12	203.180.29.156	201785	low	low	low	low	shopsite.php	click_list
+2016-03-08 14:11:38	203.180.29.156	201785	test	low	low	shopsite.php	click_list
+2016-03-08 14:27:54	203.180.29.156	201785	test	low	low		click_list
+2016-03-08 14:27:56	203.180.29.156	201785	test	low	low	row		click_list
+2016-03-08 14:27:56	203.180.29.156	201785	test	low	low	row	row		click_list
+2016-03-08 14:27:59	203.180.29.156	201785	test	low	low	row	row	row		click_list
+2016-03-08 14:28:00	203.180.29.156	201785	test	low	low	row	row	row	row		click_list
+2016-03-08 14:28:00	203.180.29.156	201785	test	low	low	row	row	row	row	row		click_list
+2016-03-08 14:28:01	203.180.29.156	201785	test	low	low	row	row	row	row		click_list
+2016-03-08 14:28:01	203.180.29.156	201785	test	low	low	row	row	row		click_list
+2016-03-08 14:28:22	203.180.29.156	201785	test	low	low	row	row		click_list
+2016-03-08 14:28:23	203.180.29.156	201785	test	low	low	row	row	row		click_list
+2016-03-08 14:28:27	203.180.29.156	201785	test	low	low	row	row	row	row		click_list
+2016-03-08 14:31:50	203.180.29.156	201785	test	low	low		click_list
+2016-03-08 14:31:51	203.180.29.156	201785	test	low	row	row		click_list
+2016-03-08 14:31:52	203.180.29.156	201785	test	low	row	raw	raw		click_list
+2016-03-08 14:31:55	203.180.29.156	201785	test	low	low		click_list
+2016-03-08 14:31:56	203.180.29.156	201785	test	low	row	row		click_list
+2016-03-08 14:31:57	203.180.29.156	201785	test	low	row	raw	raw		click_list
+2016-03-08 14:31:59	203.180.29.156	201785	test	low	row	row		click_list
+2016-03-08 14:32:00	203.180.29.156	201785	test	low	row	raw	raw		click_list
+2016-03-08 14:32:34	203.180.29.156	201785	test	low	low		click_list
+2016-03-08 14:34:28	203.180.29.156	201785	test	low	low		click_list
+2016-03-08 14:34:29	203.180.29.156	201785	test	low	row	row		click_list
+2016-03-08 14:34:29	203.180.29.156	201785	test	low	row	raw	raw		click_list
+2016-03-08 18:05:20	203.180.29.156	201785	test	low	low		click_list
+2016-03-08 18:05:21	203.180.29.156	201785	test	low	row	row		click_list
+2016-03-08 18:05:24	203.180.29.156	201785	test	low	row	raw	raw		click_list
+2016-03-08 18:05:29	203.180.29.156	201785	test	low	raw		click_list
+2016-03-08 18:05:32	203.180.29.156	201785	test	low	low		click_list
+2016-03-08 18:05:33	203.180.29.156	201785	test	low	row	row		click_list
+2016-03-08 18:05:33	203.180.29.156	201785	test	low	row	raw	raw		click_list
+2016-03-08 18:05:35	203.180.29.156	201785	test	low	row	row		click_list
+2016-03-08 18:05:36	203.180.29.156	201785	test	low	row	raw	raw		click_list
+2016-03-08 18:05:37	203.180.29.156	201785	test	low	raw		click_list
+2016-03-08 18:05:39	203.180.29.156	201785	test	low	raw		click_list
+2016-03-10 15:05:23	203.180.29.156	201785	b		btn_runfile
+2016-03-10 15:05:29	203.180.29.156	201785	b	a.php	btn_ok
+2016-03-10 15:05:30	203.180.29.156	201785	b	a.php	btn_runfile
+2016-03-15 10:20:40	203.180.29.156	201785	fkoba_test	low	row	row		click_list
+2016-03-15 10:20:42	203.180.29.156	201785	fkoba_test	low	row	raw	raw		click_list
+2016-03-15 11:17:36	203.180.29.156	201785	fkoba_test	lowrow		click_list
+2016-03-15 11:17:47	203.180.29.156	201785	fkoba_test	lowrow		click_list
+2016-03-16 17:35:13	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:35:15	203.180.29.156	201785	fkoba_test	low	row	row		click_list
+2016-03-16 17:35:16	203.180.29.156	201785	fkoba_test	low	row	raw	raw		click_list
+2016-03-16 17:35:21	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:35:22	203.180.29.156	201785	fkoba_test	low	row	row		click_list
+2016-03-16 17:35:54	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:36:29	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:45:13	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:45:34	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:46:08	203.180.29.156	201785	fkoba_test	low	row	row		click_list
+2016-03-16 17:46:25	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:54:06	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:54:16	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:54:28	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:55:39	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:55:46	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:57:58	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 17:59:08	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:00:01	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:03:02	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:10:04	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:10:18	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:10:33	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:11:28	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:11:38	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:18:57	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:19:51	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:35:49	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:38:44	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:39:02	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 18:42:29	203.180.29.156	201785	fkoba_test	low	low		click_list
+2016-03-16 20:25:42	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 20:26:31	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 20:48:15	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 20:48:17	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 20:49:40	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 20:49:40	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:03:34	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:03:34	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:17:05	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:17:05	180.220.108.160	201785	fkoba_test	low	low	low		click_list
+2016-03-16 21:17:05	180.220.108.160	201785	fkoba_test	low	low	low		click_list
+2016-03-16 21:17:28	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:17:28	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:19:49	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:20:39	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:30:06	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:00	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:03	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:04	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:06	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:07	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:08	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:09	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:10	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:11	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:12	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:14	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:29	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:42:49	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:45:03	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:45:04	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:45:06	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:45:30	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:49:48	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:51:04	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:52:58	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-16 21:53:58	180.220.108.160	201785	fkoba_test	low	low		click_list
+2016-03-17 19:50:24	203.180.29.156	201785	tets		btn_duplicate
+2016-03-17 23:17:23	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:17:24	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:17:25	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:18:19	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf	asdijfpoeijfpwioehpaijfpaoiwejfpwoiejfpaowiejfpowiejfpowijefpoawiejfpaowijefpoawijefpoawijefpoawijefpawoij		click_list
+2016-03-17 23:18:20	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:21	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:21	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:26	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:27	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:31	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:48	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf	asdijfpoeijfpwioehpaijfpaoiwejfpwoiejfpaowiejfpowiejfpowijefpoawiejfpaowijefpoawijefpoawijefpoawijefpawoij		click_list
+2016-03-17 23:18:49	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:50	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:50	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:50	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:50	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:51	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:51	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:51	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:18:52	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:18:52	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:18:53	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:18:57	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:18:59	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:18:59	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:01	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	asdijfpoeijfpwioehpaijfpaoiwejfpwoiejfpaowiejfpowiejfpowijefpoawiejfpaowijefpoawijefpoawijefpoawijefpawoij		click_list
+2016-03-17 23:19:01	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:02	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:02	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:02	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:02	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:03	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:03	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:03	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:03	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:04	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:04	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:04	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:04	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:04	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:05	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:05	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:07	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:19	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:20	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:19:21	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds		click_list
+2016-03-17 23:19:23	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	asdijfpoeijfpwioehpaijfpaoiwejfpwoiejfpaowiejfpowiejfpowijefpoawiejfpaowijefpoawijefpoawijefpoawijefpawoij		click_list
+2016-03-17 23:19:52	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:19:53	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:19:56	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:21:05	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:21:06	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:21:06	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:21:12	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:21:18	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf	asdijfpoeijfpwioehpaijfpaoiwejfpwoiejfpaowiejfpowiejfpowijefpoawiejfpaowijefpoawijefpoawijefpoawijefpawoij		click_list
+2016-03-17 23:21:19	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:21:19	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:21:23	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf	asdijfpoeijfpwioehpaijfpaoiwejfpwoiejfpaowiejfpowiejfpowijefpoawiejfpaowijefpoawijefpoawijefpoawijefpawoij		click_list
+2016-03-17 23:21:24	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:21:24	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:21:25	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:21:25	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	sdf		click_list
+2016-03-17 23:21:25	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:21:26	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:21:26	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:21:27	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds		click_list
+2016-03-17 23:21:33	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	fds	asdf	btn_newfolder
+2016-03-17 23:21:54	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:21:54	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-17 23:21:55	114.172.156.47	969321	honda	sdfli_9834	dfg	s	sldfkjslfkjwe	fds	sdf	fds	sdf		click_list
+2016-03-21 11:10:42	203.180.29.195	201785	test	a	a	a		click_list
+2016-03-21 11:11:35	203.180.29.195	201785	test	a	a	a		click_list
+2016-03-21 11:12:05	203.180.29.157	201785	test	a	b	b		click_list
+2016-03-21 11:12:07	203.180.29.157	201785	test	a	b	b		click_list
+2016-06-02 19:19:06	122.31.130.14	201785	yoshikawa	dolittle	dolittle		click_list
+2016-06-02 19:54:53	122.31.130.14	201785	yoshikawa	dolittle	dolittle		click_list
+2016-06-04 14:45:38	49.251.202.215	201785	yoshikawa	dolittle	dolittle		click_list
+2016-06-05 15:48:32	49.251.202.215	201785	yoshikawa	dolittle	dolittle		click_list
+2016-10-26 13:24:36	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:24:39	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:24:39	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:24:40	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:25:09	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:25:09	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:25:10	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:25:10	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:25:12	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:25:13	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:25:14	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:25:14	203.180.29.194	demoCourse	1477455813586		click_list
+2016-10-26 13:28:13	203.180.29.194	demoCourse	1477455813586	conveni.php	btn_runfile
+2016-10-26 13:47:40	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 13:47:40	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 13:47:41	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 13:47:41	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 13:47:42	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 13:47:57	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 13:48:51	203.180.29.194	728548	EU16A075	js1html	js1html	btn_ok
+2016-10-26 13:49:22	203.180.29.194	728548	EU16A075	js1html	js1html	btn_runfile
+2016-10-26 13:58:14	203.180.29.194	728548	EU16A075	js1html	js1html	btn_runfile
+2016-10-26 13:59:38	203.180.29.194	728548	EU16A075	js1html	js1html	btn_runfile
+2016-10-26 13:59:41	203.180.29.194	728548	EU16A075	js1html	js1html	btn_runfile
+2016-10-26 14:01:19	203.180.29.194	728548	EU16A075	js1html	js1html	btn_runfile
+2016-10-26 14:02:45	203.180.29.194	728548	EU16A075	js1html	js1html	js1html		click_list
+2016-10-26 14:02:45	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 14:02:46	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 14:02:49	203.180.29.194	728548	EU16A075	js1html	js1html	js1html		click_list
+2016-10-26 14:02:56	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	btn_ok
+2016-10-26 14:03:05	203.180.29.194	728548	EU16A075	js1html	js1html	js1html		click_list
+2016-10-26 14:03:07	203.180.29.194	728548	EU16A075	js1html	js1html	js1html		click_list
+2016-10-26 14:03:07	203.180.29.194	728548	EU16A075	js1html	js1html	js1html		click_list
+2016-10-26 14:03:08	203.180.29.194	728548	EU16A075	js1html	js1html	js1html		click_list
+2016-10-26 14:03:46	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:04:02	203.180.29.194	728548	EU16A075	js1html	js1.html	btn_duplicate
+2016-10-26 14:04:12	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:04:20	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 14:04:20	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 14:04:22	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 14:04:22	203.180.29.194	728548	EU16A075	js1html	js1html	js1html		click_list
+2016-10-26 14:04:23	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 14:04:23	203.180.29.194	728548	EU16A075	js1html	js1html	js1html		click_list
+2016-10-26 14:04:23	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:24	203.180.29.194	728548	EU16A075	js1html	js1html	js1html		click_list
+2016-10-26 14:04:24	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:26	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:28	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:28	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:28	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:29	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:29	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:29	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:29	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:30	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html	js1html		click_list
+2016-10-26 14:04:38	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html	js1html	js1.html	btn_runfile
+2016-10-26 14:04:48	203.180.29.194	728548	EU16A075	js1html	js1html	js1html	js1html	js1html	none	btn_newfile
+2016-10-26 14:05:15	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:05:26	203.180.29.194	728548	EU16A075	js1html	js1.html	btn_runfile
+2016-10-26 14:06:16	203.180.29.194	728548	EU16A075	js1html	js1.html	btn_runfile
+2016-10-26 14:06:59	203.180.29.194	728548	EU16A075	js1html	none	btn_newfile
+2016-10-26 14:09:20	203.180.29.194	728548	EU16A075	js1html	js11.html	btn_ok
+2016-10-26 14:09:28	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:09:29	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:09:30	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:09:31	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:09:59	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:10:38	203.180.29.194	728548	EU16A075	js1html	js1.html	btn_runfile
+2016-10-26 14:11:11	203.180.29.194	728548	EU16A075	js1html	js1.html	btn_runfile
+2016-10-26 14:11:19	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 14:11:20	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:11:26	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:12:45	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:12:54	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:13:02	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 14:13:03	203.180.29.194	728548	EU16A075	js1html	js1html		click_list
+2016-10-26 14:13:12	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:15:35	203.180.29.194	728548	EU16A075	js1html	js1.html	btn_runfile
+2016-10-26 14:16:25	203.180.29.194	728548	eu16a069	js2html		click_list
+2016-10-26 14:16:31	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:16:38	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:16:39	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:16:40	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:16:41	203.180.29.194	728548	EU16A075	js1html	js2.html	btn_duplicate
+2016-10-26 14:16:43	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:16:51	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:16:54	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:16:56	203.180.29.194	728548	Eu16A066	js2html	js1.html	btn_ok
+2016-10-26 14:17:00	203.180.29.194	728548	Eu16A066	js2html	js1.html	btn_ok
+2016-10-26 14:17:03	203.180.29.194	728548	EU16A075	js1html	js2.html	btn_duplicate
+2016-10-26 14:17:12	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:17:13	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:17	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:17	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:17	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:17	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:23	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:27	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:28	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:28	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:29	203.180.29.194	728548	Eu16A066	js2html	js2html	js2html		click_list
+2016-10-26 14:17:29	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:17:41	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:17:42	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:17:47	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:17:48	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:17:48	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:17:48	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:17:49	203.180.29.194	728548	Eu16A066	js2html	js1.html	btn_runfile
+2016-10-26 14:18:00	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:18:01	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:18:02	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:18:10	203.180.29.194	728548	Eu16A066	js2html	js1.html	btn_runfile
+2016-10-26 14:18:51	203.180.29.194	728548	EU16A075	js1html	js2.html	btn_runfile
+2016-10-26 14:19:19	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:19:20	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:19:20	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:19:21	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:19:25	203.180.29.194	728548	EU16A075	js1html		click_list
+2016-10-26 14:20:12	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:20:29	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:20:32	203.180.29.194	728548	eu16a069	js2html	js2html	btn_ok
+2016-10-26 14:20:32	203.180.29.194	728548	eu16a069	js2html	js2html	btn_runfile
+2016-10-26 14:20:34	203.180.29.194	728548	Eu16A066	js2html	js1.html	btn_ok
+2016-10-26 14:20:41	203.180.29.194	728548	Eu16A066	js2html	js1.html	btn_runfile
+2016-10-26 14:20:49	203.180.29.194	728548	eu16a069	js2html	js2html	btn_ok
+2016-10-26 14:20:49	203.180.29.194	728548	eu16a069	js2html	js2html	btn_runfile
+2016-10-26 14:21:03	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:21:04	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:21:07	203.180.29.194	728548	Eu16A066	js2html	js1.html	btn_runfile
+2016-10-26 14:21:16	203.180.29.194	728548	eu16a069	js2html	js2html	btn_ok
+2016-10-26 14:21:16	203.180.29.194	728548	eu16a069	js2html	js2html	btn_runfile
+2016-10-26 14:21:32	203.180.29.194	728548	Eu16A066	js2html		click_list
+2016-10-26 14:21:32	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:21:32	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:21:32	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:21:33	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:21:33	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:21:33	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:21:33	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:21:54	203.180.29.194	728548	Eu16A066	js2html	js2html		click_list
+2016-10-26 14:22:10	203.180.29.194	728548	eu16a069	js2html	js2html	btn_ok
+2016-10-26 14:22:10	203.180.29.194	728548	eu16a069	js2html	js2html	btn_runfile
+2016-10-26 14:22:49	203.180.29.194	728548	eu16a069	js2html	js2html	btn_ok
+2016-10-26 14:22:49	203.180.29.194	728548	eu16a069	js2html	js2html	btn_runfile
+2016-10-26 14:24:36	203.180.29.194	728548	eu16a069	js2html	js2html	btn_ok
+2016-10-26 14:24:36	203.180.29.194	728548	eu16a069	js2html	js2html	btn_runfile
+2016-10-26 14:25:09	203.180.29.194	728548	eu16a069	js2html	js2html	btn_ok
+2016-10-26 14:25:09	203.180.29.194	728548	eu16a069	js2html	js2html	btn_runfile
+2016-10-26 14:25:41	203.180.29.194	728548	eu16a069	js2html	js2html	btn_ok
+2016-10-26 14:25:41	203.180.29.194	728548	eu16a069	js2html	js2html	btn_runfile
+2016-10-26 14:26:34	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:26:39	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:26:47	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-26 14:26:51	203.180.29.194	728548	EU16A057	js2html	js2.html	btn_duplicate
+2016-10-26 14:27:01	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:27:01	203.180.29.194	728548	EU16A073	js1html	js2.html	btn_runfile
+2016-10-26 14:27:07	203.180.29.194	728548	EU16A057	js2html	js2html		click_list
+2016-10-26 14:27:08	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:27:09	203.180.29.194	728548	EU16A073	js1html	js2.html	btn_ok
+2016-10-26 14:27:09	203.180.29.194	728548	EU16A073	js1html	js2.html	btn_runfile
+2016-10-26 14:27:09	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:27:10	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:27:10	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:27:20	203.180.29.194	728548	EU16A073	js1html	js2.html	btn_runfile
+2016-10-26 14:27:28	203.180.29.194	728548	EU16A057	js2html	js02.html	btn_duplicate
+2016-10-26 14:27:33	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-26 14:27:33	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-26 14:27:34	203.180.29.194	728548	EU16A073	js1html	js1html		click_list
+2016-10-26 14:27:39	203.180.29.194	728548	EU16A073	js1html	js1html		click_list
+2016-10-26 14:28:43	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-26 14:28:50	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-26 14:29:57	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:30:08	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:30:15	203.180.29.194	728548	EU16A057	js2html	js1.html	btn_trash
+2016-10-26 14:30:21	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:30:23	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:30:24	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:30:25	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:30:29	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:30:36	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:30:39	203.180.29.194	728548	EU16A057	js2html	js2html		click_list
+2016-10-26 14:30:43	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-26 14:31:40	203.180.29.194	728548	EU16A057	js2html	js02.html	btn_runfile
+2016-10-27 07:38:21	126.245.210.112	demoCourse	1477442641683		click_list
+2016-10-27 07:38:23	126.245.210.112	demoCourse	1477442641683		click_list
+2016-10-27 07:38:25	126.245.210.112	demoCourse	1477442641683		click_list
+2016-10-27 07:38:26	126.245.210.112	demoCourse	1477442641683		click_list
+2016-10-27 07:38:27	126.245.210.112	demoCourse	1477442641683		click_list
+2016-10-27 07:38:29	126.245.210.112	demoCourse	1477442641683		click_list
+2016-10-28 09:23:20	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:23:21	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:23:22	203.180.29.194	728548	EU16A073	js1html	js1html		click_list
+2016-10-28 09:23:26	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:23:26	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:16	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:16	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:17	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:18	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:18	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:19	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:19	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:19	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:19	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:20	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:20	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:35	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:36	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:24:36	203.180.29.194	728548	EU16A073	js1html	js1html		click_list
+2016-10-28 09:24:36	203.180.29.194	728548	EU16A073	js1html	js1html		click_list
+2016-10-28 09:24:37	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:24:42	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:24:43	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:24:44	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:24:45	203.180.29.194	728548	EU16A073	js1html	js1html		click_list
+2016-10-28 09:24:45	203.180.29.194	728548	EU16A073	js1html	js1html	js1html		click_list
+2016-10-28 09:24:46	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:24:46	203.180.29.194	728548	EU16A073	js1html	js1html		click_list
+2016-10-28 09:24:47	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:24:47	203.180.29.194	728548	EU16A073	js1html	js1html	js1html		click_list
+2016-10-28 09:24:47	203.180.29.194	728548	EU16A073	js1html	js1html	js1html	js1html		click_list
+2016-10-28 09:24:48	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:24:48	203.180.29.194	728548	EU16A073	js1html	js1html	js1html		click_list
+2016-10-28 09:24:53	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:25:01	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:25:05	203.180.29.194	728548	EU16A073	js1html	js1html	js1html	js2.html	btn_duplicate
+2016-10-28 09:25:35	203.180.29.194	728548	EU16A057	js2html	js3.html	btn_duplicate
+2016-10-28 09:25:40	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:25:46	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:25:56	203.180.29.194	728548	EU16A057	js2html	js3.html	btn_duplicate
+2016-10-28 09:25:57	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:26:05	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:26:14	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:26:18	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:26:20	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:26:21	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:26:22	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:26:30	203.180.29.194	728548	EU16A073	js1html		click_list
+2016-10-28 09:26:44	203.180.29.194	728548	EU16A057	js2html	js3.html	btn_duplicate
+2016-10-28 09:28:06	203.180.29.194	728548	EU16A057	js2html	js3.html	btn_duplicate
+2016-10-28 09:28:08	203.180.29.194	728548	EU16A057	js2html	js3.html	btn_ok
+2016-10-28 09:28:42	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:28:52	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:29:04	203.180.29.194	728548	EU16A057	js2html	js2html		click_list
+2016-10-28 09:29:30	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:29:31	203.180.29.194	728548	EU16A057	js2html	js2html		click_list
+2016-10-28 09:29:40	203.180.29.194	728548	EU16A057	js2html	js1.html	btn_trash
+2016-10-28 09:29:50	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:29:59	203.180.29.194	728548	EU16A057	js2html	js02.html	btn_runfile
+2016-10-28 09:30:16	203.180.29.194	728548	EU16A057	js2html	none	btn_newfile
+2016-10-28 09:30:22	203.180.29.194	728548	EU16A057	js2html		btn_runfile
+2016-10-28 09:30:35	203.180.29.194	728548	EU16A057	js2html		btn_ok
+2016-10-28 09:30:55	203.180.29.194	728548	EU16A057	js2html	a.html	btn_ok
+2016-10-28 09:31:14	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:31:15	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:31:21	203.180.29.194	728548	eu16a047	js3html	js3html		click_list
+2016-10-28 09:31:22	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:31:23	203.180.29.194	728548	eu16a047	js3html	js3html		click_list
+2016-10-28 09:31:23	203.180.29.194	728548	eu16a047	js3html	js3html	js3html		click_list
+2016-10-28 09:31:27	203.180.29.194	728548	eu16a047	js3html	js3html		click_list
+2016-10-28 09:31:28	203.180.29.194	728548	eu16a047	js3html	js3html		click_list
+2016-10-28 09:31:29	203.180.29.194	728548	eu16a047	js3html	js3html	js3html		click_list
+2016-10-28 09:31:34	203.180.29.194	728548	EU16A057	js2html	a.html	btn_runfile
+2016-10-28 09:31:34	203.180.29.194	728548	eu16a047	js3html	js3html		click_list
+2016-10-28 09:31:38	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:31:40	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:31:41	203.180.29.194	728548	eu16a047	js3html	js3html	js3html		click_list
+2016-10-28 09:31:41	203.180.29.194	728548	EU16A057	js2html	js02.html	btn_runfile
+2016-10-28 09:31:42	203.180.29.194	728548	eu16a047	js3html	js3html	js3html		click_list
+2016-10-28 09:31:49	203.180.29.194	728548	EU16A057	js2html	js02.html	btn_runfile
+2016-10-28 09:31:49	203.180.29.194	728548	eu16a047	js3html	js3html	js3html		click_list
+2016-10-28 09:31:51	203.180.29.194	728548	eu16a047	js3html	js3html	js3html		click_list
+2016-10-28 09:31:51	203.180.29.194	728548	eu16a047	js3html	js3html	js3html	js3html		click_list
+2016-10-28 09:31:52	203.180.29.194	728548	eu16a047	js3html	js3html	js3html		click_list
+2016-10-28 09:31:56	203.180.29.194	728548	eu16a047	js3html	js3html	js3html	js3html		click_list
+2016-10-28 09:31:56	203.180.29.194	728548	eu16a047	js3html	js3html	js3html		click_list
+2016-10-28 09:31:57	203.180.29.194	728548	eu16a047	js3html	js3html	js3html	js3html		click_list
+2016-10-28 09:32:02	203.180.29.194	728548	eu16a047	js3html	js3html	js3html	js3html		click_list
+2016-10-28 09:32:02	203.180.29.194	728548	eu16a047	js3html	js3html	js3html	js3html	js3html		click_list
+2016-10-28 09:32:03	203.180.29.194	728548	eu16a047	js3html	js3html	js3html	js3html		click_list
+2016-10-28 09:32:04	203.180.29.194	728548	eu16a047	js3html	js3html	js3html	js3html	js3html		click_list
+2016-10-28 09:32:06	203.180.29.194	728548	eu16a047	js3html	js3html	js3html	js3html	js3html		click_list
+2016-10-28 09:32:09	203.180.29.194	728548	eu16a047	js3html	js3html	js3html	js3html	js3html		click_list
+2016-10-28 09:32:19	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:32:19	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:32:26	203.180.29.194	728548	eu16a047	js3html	js3html		click_list
+2016-10-28 09:32:34	203.180.29.194	728548	EU16A057	js2html	js02.html	btn_runfile
+2016-10-28 09:32:36	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:32:37	203.180.29.194	728548	EU16A057	js2html	js1.html	btn_runfile
+2016-10-28 09:32:38	203.180.29.194	728548	EU16A057	js2html	js2html		click_list
+2016-10-28 09:32:39	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:32:48	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:32:49	203.180.29.194	728548	EU16A057	js2html	js02.html	btn_ok
+2016-10-28 09:32:54	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:32:56	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:32:59	203.180.29.194	728548	eu16a047	js3html	js3html		click_list
+2016-10-28 09:33:24	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:33:25	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:33:28	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:33:29	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:33:30	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:33:30	203.180.29.194	728548	EU16A057	js2html		click_list
+2016-10-28 09:37:03	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:37:34	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:37:35	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 09:37:35	203.180.29.194	728548	eu16a047	js3html	js3html		click_list
+2016-10-28 09:38:57	203.180.29.194	728548	eu16a047	js3html		click_list
+2016-10-28 11:54:20	58.85.254.192	728548	fkoba	js2html		click_list
+2016-10-28 11:54:20	58.85.254.192	728548	fkoba	js2html		click_list
+2016-10-28 11:54:22	58.85.254.192	728548	fkoba	js2html		click_list
+2016-10-28 11:54:26	58.85.254.192	728548	fkoba	js2html	js2html		click_list
+2016-10-28 11:54:28	58.85.254.192	728548	fkoba	js2html		click_list
+2016-10-28 11:54:34	58.85.254.192	728548	fkoba	js2html		click_list
+2016-10-28 12:24:53	58.85.254.192	728548	fkoba	a2php		click_list
+2016-10-28 12:25:05	58.85.254.192	728548	fkoba	a2php		click_list
+2016-10-28 12:25:52	58.85.254.192	728548	fkoba	a2html		click_list
+2016-10-28 12:26:40	58.85.254.192	728548	fkoba	a2html	aaaa	btn_newfolder
+2016-11-01 12:53:38	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:53:39	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:53:39	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 12:53:44	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:54:21	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 12:54:25	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 12:54:25	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 12:54:29	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:54:32	203.180.29.195	728548	eu16a047	js3html	js1.html	btn_runfile
+2016-11-01 12:54:33	203.180.29.195	728548	eu16a047	js3html	js1.html	btn_ok
+2016-11-01 12:54:34	203.180.29.195	728548	eu16a047	js3html	js1.html	btn_runfile
+2016-11-01 12:54:37	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:54:38	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 12:54:42	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 12:54:42	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 12:54:45	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 12:54:51	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:54:55	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:54:58	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:55:07	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:55:10	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:55:15	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 12:55:39	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:55:40	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 12:55:45	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 12:55:49	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 12:55:49	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 12:59:17	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 12:59:17	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:02:42	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:02:42	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:03:22	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:03:25	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:03:28	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:03:30	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:03:31	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:10:54	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:10:55	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:18:00	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:18:00	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:19:00	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:19:01	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:24:48	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:24:49	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:25:14	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:25:15	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:31:48	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:31:53	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:31:55	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:31:56	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:31:57	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:34:16	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:34:17	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:35:49	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:35:50	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:37:54	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:37:54	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:38:16	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:38:16	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:39:01	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:39:02	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:39:32	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:39:33	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_runfile
+2016-11-01 13:41:20	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:41:22	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:45:23	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:45:24	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:45:27	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:45:28	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:45:28	203.180.29.195	728548	eu16a047	js3html	js3html	js3html		click_list
+2016-11-01 13:45:39	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:45:41	203.180.29.195	728548	eu16a047	js3html	js3html	js2.html	btn_ok
+2016-11-01 13:46:45	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:46:50	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:46:55	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:46:57	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:47:00	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:47:02	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:47:03	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:47:17	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:47:26	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:47:42	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_duplicate
+2016-11-01 13:48:08	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:48:14	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:48:37	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:48:45	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:48:50	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:48:54	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:49:06	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:49:11	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:49:13	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:49:15	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:49:19	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:50:04	203.180.29.195	728548	eu16a047	js3html	js2.html	btn_ok
+2016-11-01 13:50:32	203.180.29.195	728548	eu16a047	js3html	js3.html	btn_duplicate
+2016-11-01 13:50:42	203.180.29.195	728548	eu16a047	js3html	js3.html	btn_ok
+2016-11-01 13:50:48	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:50:54	203.180.29.195	728548	eu16a047	js3html	js3.html	btn_trash
+2016-11-01 13:51:19	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:51:25	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:51:25	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:51:26	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 13:52:17	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:56:32	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:56:39	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:57:57	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:58:02	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:58:06	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:58:14	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:58:23	203.180.29.195	728548	eu16a047	js3html	js1.html	btn_ok
+2016-11-01 13:58:29	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:58:30	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:58:38	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 13:58:43	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:05:35	203.180.29.195	728548	eu16a047	js3html	js1.html	btn_ok
+2016-11-01 14:05:37	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:05:40	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:05:41	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:05:54	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:06:33	203.180.29.195	728548	eu16a047	js3html	js1.html	btn_ok
+2016-11-01 14:06:33	203.180.29.195	728548	eu16a047	js3html	js1.html	btn_runfile
+2016-11-01 14:06:38	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:08:40	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:09:50	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:14:06	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:14:17	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 14:14:19	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:14:20	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 14:14:20	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 14:14:26	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:14:27	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 14:14:29	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:14:30	203.180.29.195	728548	eu16a047	js3html	js3html		click_list
+2016-11-01 14:19:00	203.180.29.195	728548	eu16a047	js3html		click_list
+2016-11-01 14:21:58	203.180.29.195	728548	eu16a047	js3html	js1.html	btn_ok
+2016-11-01 14:21:58	203.180.29.195	728548	eu16a047	js3html	js1.html	btn_runfile
+2016-11-02 13:08:21	203.180.29.195	728548	EU16A057	js2html		click_list
+2016-11-02 13:08:22	203.180.29.195	728548	EU16A057	js2html		click_list
+2016-11-02 13:08:25	203.180.29.195	728548	EU16A057	js2html		click_list
+2016-11-02 13:08:26	203.180.29.195	728548	EU16A057	js2html		click_list
+2016-11-02 13:08:26	203.180.29.195	728548	EU16A057	js2html		click_list
+2016-11-02 13:08:27	203.180.29.195	728548	EU16A057	js2html		click_list
+2016-11-02 13:19:37	203.180.29.195	728548	EU16A057	js2html		click_list
+2016-11-02 13:19:39	203.180.29.195	728548	EU16A057	js2html	js02.html	btn_runfile
+2016-11-02 13:19:52	203.180.29.195	728548	EU16A057	js2html		click_list
+2016-11-02 13:19:54	203.180.29.195	728548	EU16A057	js2html	js02.html	btn_runfile
+2016-11-02 13:19:54	203.180.29.195	728548	EU16A057	js2html		click_list
+2016-11-02 13:19:55	203.180.29.195	728548	EU16A057	js2html	js1.html	btn_runfile
+2016-11-02 14:53:22	203.180.29.194	728548	fkoba	a2php		click_list
+2016-11-02 14:53:29	203.180.29.194	728548	fkoba	a2php		click_list
+2016-11-02 14:53:32	203.180.29.194	728548	fkoba	a2php	a.html	btn_ok
+2016-11-15 23:40:10	122.31.208.13	301811	akada	vendor	Utils	Utils		click_list
+2016-11-16 00:44:01	122.31.208.13	301811	akada	vendor	Logger	Logger		click_list
+2016-11-16 00:45:04	122.31.208.13	301811	akada	vendor	Logger	Logger		click_list
+2016-11-16 00:51:28	122.31.208.13	301811	akada	vendor	Service	vendor		click_list
+2016-11-16 00:51:30	122.31.208.13	301811	akada	vendor	Service	kakomon		click_list
+2016-11-16 16:30:53	203.180.29.156	728548	eu16a069	js2html		click_list
+2016-11-16 16:30:54	203.180.29.156	728548	eu16a069	js2html		click_list
+2016-11-16 16:39:33	203.180.29.156	728548	eu16a069	js2html		click_list
+2016-12-05 12:34:38	203.180.29.194	demoCourse	1480899997262	none	btn_newfile
+2016-12-05 12:39:27	203.180.29.194	demoCourse	1480899997262	modTest.html	btn_ok
+2016-12-05 12:39:45	203.180.29.194	demoCourse	1480899997262	modTest.html	btn_ok
+2016-12-05 12:39:49	203.180.29.194	demoCourse	1480899997262	modTest.html	btn_runfile
+2016-12-05 13:59:59	203.180.29.194	demoCourse	1480913877812	none	btn_newfile
+2016-12-05 14:00:01	203.180.29.194	demoCourse	1480913877812		btn_newfolder
+2016-12-05 14:00:10	203.180.29.194	demoCourse	1480913877812		btn_runfile
+2016-12-05 14:00:30	203.180.29.194	demoCourse	1480913877812		btn_duplicate
+2016-12-05 15:06:12	203.180.29.194	demoCourse	1480914179882		click_list
+2016-12-05 15:06:14	203.180.29.194	demoCourse	1480914179882		click_list
+2016-12-05 15:06:15	203.180.29.194	demoCourse	1480914179882		click_list
+2016-12-05 15:06:16	203.180.29.194	demoCourse	1480914179882		click_list
+2016-12-05 15:06:20	203.180.29.194	demoCourse	1480914179882		click_list
+2016-12-05 15:06:21	203.180.29.194	demoCourse	1480914179882		click_list
+2016-12-05 15:06:24	203.180.29.194	demoCourse	1480914179882		click_list
+2016-12-05 15:06:27	203.180.29.194	demoCourse	1480914179882		click_list
+2016-12-09 15:13:02	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:13:14	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:13:16	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:13:16	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:13:16	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:13:17	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:13:17	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:13:18	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:13:26	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:13:29	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-09 15:14:04	203.180.29.194	demoCourse	1481263937292		click_list
+2016-12-15 13:13:32	203.180.29.194	488360	en16a019	ponday	ponday		click_list
+2016-12-15 13:13:32	203.180.29.194	488360	en16a019	ponday	ponday		click_list
+2019-09-07 13:19:11	180.198.131.44	210929	KukokuBurakkuSystems	test	test		click_list
+2019-09-07 14:17:35	180.198.131.44	210929	KukokuBurakkusystems	TGH	TGH		click_list
+2019-09-07 14:17:36	180.198.131.44	210929	KukokuBurakkusystems	TGH	TGH		click_list
+2019-09-07 14:17:37	180.198.131.44	210929	KukokuBurakkusystems	TGH	TGH		click_list
+2020-09-13 15:57:16	119.230.164.233	846831	eh17a054	test	test		click_list
+2020-10-12 16:49:34	127.0.0.1	klab	test	test	test		click_list
+2020-10-16 17:57:13	127.0.0.1	klab	test	.test	.		click_list
+2020-10-16 17:57:15	127.0.0.1	klab	test	.test	.		click_list
+2020-10-17 15:03:34	127.0.0.1	klab	template	xxx	xxx		click_list
+2020-10-17 15:07:15	127.0.0.1	klab	template	xxx	xxx		click_list
+2020-10-17 15:39:21	127.0.0.1	klab	template	class1	class1		click_list
+2020-10-17 15:40:06	127.0.0.1	klab	template	class1	class1		click_list
+2020-10-17 16:44:31	127.0.0.1	klab	test	class1	class1		click_list
+2020-10-17 16:49:24	127.0.0.1	klab	test	xxx	xxx		click_list
+2020-10-17 16:51:33	127.0.0.1	klab	test	xxx	xxx		click_list
+2020-10-17 16:53:17	127.0.0.1	klab	test	xxx	xxx		click_list
+2020-10-17 16:58:04	127.0.0.1	klab	test	xxx	xxx		click_list
+2020-10-17 17:05:13	127.0.0.1	klab	test	xxx	xxx		click_list
+2020-10-17 17:05:21	127.0.0.1	klab	test	xxx	1		click_list
+2020-10-17 17:05:23	127.0.0.1	klab	test	xxx	1	1		click_list
+2020-10-17 17:05:24	127.0.0.1	klab	test	xxx	1		click_list
+2020-10-17 17:05:24	127.0.0.1	klab	test	xxx	1	1		click_list
+2020-10-17 17:05:25	127.0.0.1	klab	test	xxx	1	1		click_list
+2020-10-17 17:05:25	127.0.0.1	klab	test	xxx	1	1		click_list
+2020-10-17 17:05:25	127.0.0.1	klab	test	xxx	1	1		click_list
+2020-10-17 17:06:23	127.0.0.1	klab	test	xxx	xxx		click_list
+2020-10-20 11:15:16	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 00:09:55	127.0.0.1	klab	test	class1	test		click_list
+2020-10-23 00:40:25	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 00:40:50	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 00:42:09	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 00:42:21	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 00:43:09	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 00:46:24	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 00:51:11	127.0.0.1	klab	test	test	class2		click_list
+2020-10-23 00:56:32	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:01:30	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:08:08	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:08:42	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:15:28	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:27:00	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:30:39	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:31:09	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:31:57	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:32:15	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:32:30	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:37:14	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:39:15	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:40:04	127.0.0.1	klab	test	test	test		click_list
+2020-10-23 01:51:05	127.0.0.1	klab	test	test	xxx		click_list
+2020-10-27 12:54:51	127.0.0.1	klab	test	test	test		click_list
+2020-10-30 17:21:20	127.0.0.1	klab	test	test	class2		click_list
+2020-10-30 17:21:39	127.0.0.1	klab	test	test	class1		click_list
+2020-10-30 17:23:42	127.0.0.1	klab	test	test	class2		click_list

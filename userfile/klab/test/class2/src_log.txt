@@ -1,0 +1,2 @@
+2020-10-17 17:10:49	127.0.0.1	klab	test	class2	b.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	bb
+2020-10-30 18:22:42	127.0.0.1	klab	test	class2	b.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	bb

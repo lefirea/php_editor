@@ -1,0 +1,38 @@
+2020-10-16 10:34:13	127.0.0.1	klab	template	xxx		click_list
+2020-10-16 10:34:38	127.0.0.1	klab	template	xxx	a.html	btn_ok
+2020-10-17 14:57:56	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 14:57:57	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 14:58:01	127.0.0.1	klab	template	xxx	a.html	btn_ok
+2020-10-17 14:58:20	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 14:58:21	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 14:59:56	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:00:00	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:00:02	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:00:03	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:00:07	127.0.0.1	klab	template	xxx	a.html	btn_ok
+2020-10-17 15:03:37	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:03:40	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:03:42	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:03:51	127.0.0.1	klab	template	xxx	a.html	btn_ok
+2020-10-17 15:07:07	127.0.0.1	klab	template	xxx	a.html	btn_ok
+2020-10-17 15:07:17	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:07:21	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:07:27	127.0.0.1	klab	template	xxx	a.html	btn_ok
+2020-10-17 15:29:11	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:29:12	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:29:13	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:29:16	127.0.0.1	klab	template	xxx	a.html	btn_ok
+2020-10-17 15:29:18	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:31:56	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:31:58	127.0.0.1	klab	template	xxx	x.log	btn_trash
+2020-10-17 15:32:00	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 15:32:01	127.0.0.1	klab	template	xxx	a.html	btn_ok
+2020-10-17 15:32:03	127.0.0.1	klab	template	xxx	a.html	btn_runfile
+2020-10-17 15:33:55	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 16:23:25	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 17:07:35	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 17:07:36	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 17:07:42	127.0.0.1	klab	template	xxx	a.html	btn_ok
+2020-10-17 17:09:38	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 17:09:38	127.0.0.1	klab	template	xxx		click_list
+2020-10-17 17:09:44	127.0.0.1	klab	template	xxx	a.html	btn_ok

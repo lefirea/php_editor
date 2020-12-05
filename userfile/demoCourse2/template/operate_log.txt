@@ -1,0 +1,15 @@
+2016-08-17 22:36:47	106.181.111.65	demoCourse2	template	none	btn_newfile
+2016-08-17 22:36:56	106.181.111.65	demoCourse2	template	none	btn_newfile
+2016-08-17 22:39:54	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_ok
+2016-08-17 22:39:55	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_runfile
+2016-08-17 22:41:43	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_runfile
+2016-08-17 22:41:44	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_ok
+2016-08-17 22:42:33	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_ok
+2016-08-17 22:42:34	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_runfile
+2016-08-17 22:42:47	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_runfile
+2016-08-17 22:42:47	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_runfile
+2016-08-17 22:42:47	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_ok
+2016-08-17 22:44:02	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_ok
+2016-08-17 22:44:03	106.181.111.65	demoCourse2	template	dbconnect_sample.php	btn_runfile
+2016-10-24 18:45:44	150.46.201.35	demoCourse2	template		click_list
+2016-10-24 18:52:16	150.46.201.35	demoCourse2	template	dbconnect_sample.php	btn_runfile

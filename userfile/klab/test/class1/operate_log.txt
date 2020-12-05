@@ -1,0 +1,36 @@
+2020-10-17 16:23:33	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:23:35	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:23:38	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:37:17	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:38:55	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:39:01	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:42:44	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:42:45	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:43:02	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:43:03	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:43:07	127.0.0.1	klab	test	class1	a.html	btn_ok
+2020-10-17 16:43:14	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:43:15	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:44:33	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:44:34	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:44:38	127.0.0.1	klab	test	class1	a.html	btn_ok
+2020-10-17 16:44:42	127.0.0.1	klab	test	class1		click_list
+2020-10-17 16:44:43	127.0.0.1	klab	test	class1		click_list
+2020-10-17 17:10:08	127.0.0.1	klab	test	class1		click_list
+2020-10-17 17:10:09	127.0.0.1	klab	test	class1		click_list
+2020-10-22 23:41:50	127.0.0.1	klab	test	class1		click_list
+2020-10-22 23:41:52	127.0.0.1	klab	test	class1		click_list
+2020-10-22 23:42:44	127.0.0.1	klab	test	class1		click_list
+2020-10-22 23:42:47	127.0.0.1	klab	test	class1		click_list
+2020-10-22 23:44:39	127.0.0.1	klab	test	class1		click_list
+2020-10-22 23:44:41	127.0.0.1	klab	test	class1		click_list
+2020-10-22 23:44:42	127.0.0.1	klab	test	class1		click_list
+2020-10-22 23:44:43	127.0.0.1	klab	test	class1		click_list
+2020-10-22 23:44:44	127.0.0.1	klab	test	class1		click_list
+2020-10-23 00:09:56	127.0.0.1	klab	test	class1		click_list
+2020-10-23 00:09:57	127.0.0.1	klab	test	class1		click_list
+2020-10-30 17:53:59	127.0.0.1	klab	test	class1		click_list
+2020-10-30 18:14:43	127.0.0.1	klab	test	class1		click_list
+2020-10-30 18:18:54	127.0.0.1	klab	test	class1		click_list
+2020-10-30 18:18:56	127.0.0.1	klab	test	class1		click_list
+2020-10-30 18:18:56	127.0.0.1	klab	test	class1		click_list

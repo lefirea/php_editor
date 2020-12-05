@@ -1,0 +1,6 @@
+2016-08-18 10:54:12	150.46.201.39	demoCourse2	Ntaki	barcode.php	btn_ok
+2016-08-18 10:54:14	150.46.201.39	demoCourse2	Ntaki	barcode.php	btn_runfile
+2016-08-18 10:54:35	150.46.201.39	demoCourse2	Ntaki	barcode.php	btn_ok
+2016-08-18 10:54:35	150.46.201.39	demoCourse2	Ntaki	barcode.php	btn_runfile
+2016-08-18 10:54:40	150.46.201.39	demoCourse2	Ntaki	barcode.php	btn_ok
+2016-08-18 10:54:41	150.46.201.39	demoCourse2	Ntaki	barcode.php	btn_runfile

@@ -1,0 +1,2 @@
+2020-10-17 15:47:50	127.0.0.1	klab	template	class1	aaa.html	err	# 	aaa
+2020-10-17 16:23:21	127.0.0.1	klab	template	class1	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaa.html

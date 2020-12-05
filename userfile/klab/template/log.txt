@@ -1,0 +1,18 @@
+2020-10-14 15:14:25	127.0.0.1	klab	template	share_php.php	err	# 
+2020-10-14 15:14:28	127.0.0.1	klab	template	share_php.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>
+2020-10-14 15:41:06	127.0.0.1	klab	template	share_2nd.php	err	# 
+2020-10-16 10:31:46	127.0.0.1	klab	template	sg.php	ok	# 
+2020-10-17 15:28:13	127.0.0.1	klab	template	sg.php	ok	# 
+2020-10-17 15:28:16	127.0.0.1	klab	template	sg.php	ok	# 
+2020-10-17 15:28:16	127.0.0.1	klab	template	sg.php	ok	# 
+2020-10-17 15:28:17	127.0.0.1	klab	template	sg.php	ok	# 
+2020-10-17 15:28:17	127.0.0.1	klab	template	sg.php	ok	# 
+2020-10-17 15:28:18	127.0.0.1	klab	template	sg.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>
+2020-10-17 15:48:50	127.0.0.1	klab	template	aaa.html	err	# 
+2020-10-17 15:51:18	127.0.0.1	klab	template	a.html	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br>Could not open input file: /var/www/html/php/saccess_PHP/userfile/klab/template/a.html</div>
+2020-10-17 16:04:34	127.0.0.1	klab	template	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>
+2020-10-17 16:07:53	127.0.0.1	klab	template	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>
+2020-10-17 16:18:21	127.0.0.1	klab	template	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>
+2020-10-17 16:21:39	127.0.0.1	klab	template	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>
+2020-10-17 16:22:53	127.0.0.1	klab	template	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>
+2020-10-17 16:23:04	127.0.0.1	klab	template	aa.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>

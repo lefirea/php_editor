@@ -1,0 +1,255 @@
+2020-10-11 21:17:18	127.0.0.1	klab	test		err	# 	
+2020-10-11 22:43:16	127.0.0.1	klab	test	test.php	err	# 	<?php
+echo "hello";
+?>
+2020-10-11 22:43:30	127.0.0.1	klab	test	test.php	err	# 	<?php
+echo "hello";
+?>
+2020-10-11 22:43:36	127.0.0.1	klab	test	test.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-12 15:42:11	127.0.0.1	klab	test	test.php	err	# 	<?php
+echo "hello";
+?>
+2020-10-12 15:48:39	127.0.0.1	klab	test	test.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-12 15:56:10	127.0.0.1	klab	test	test.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-12 16:33:25	127.0.0.1	klab	test	test.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-12 16:34:11	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-13 10:50:29	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 15:15:22	127.0.0.1	klab	test	share_php.php	err	# 	<?php
+echo "shared";
+?>
+2020-10-14 15:15:23	127.0.0.1	klab	test	share_php.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "shared";
+?>
+2020-10-14 15:36:53	127.0.0.1	klab	test	share_php.php	err	# 	<?php
+echo "shared";
+?>
+2020-10-14 15:40:08	127.0.0.1	klab	test	share_php.php	err	# 	<?php
+echo "shared";
+?>
+2020-10-14 15:41:19	127.0.0.1	klab	test	share_2nd.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "2nd share";
+?>
+2020-10-14 15:41:33	127.0.0.1	klab	test	share_2nd.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "not shared";
+?>
+2020-10-14 15:41:34	127.0.0.1	klab	test	share_2nd.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "not shared";
+?>
+2020-10-14 15:46:07	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 15:53:11	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 15:55:12	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 16:03:39	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello"
+?>
+2020-10-14 16:03:43	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello"
+?>
+2020-10-14 16:06:37	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello"
+?>
+2020-10-14 16:13:33	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 16:13:34	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 16:17:43	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 16:19:44	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 16:46:29	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 17:30:45	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 17:41:29	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 17:45:56	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 17:46:56	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 18:13:24	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 18:14:27	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 18:26:39	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 18:27:33	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello";
+?>
+2020-10-14 18:32:29	127.0.0.1	klab	test	sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "hello";
+?>
+2020-10-14 18:35:37	127.0.0.1	klab	test	sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "hello"
+?>
+2020-10-14 18:35:37	127.0.0.1	klab	test	sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "hello"
+?>
+2020-10-14 18:35:47	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello
+?>
+2020-10-14 18:35:50	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello
+?>
+2020-10-14 18:35:51	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello
+?>
+2020-10-14 18:36:10	127.0.0.1	klab	test	sample.php	ok	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello"
+?>
+2020-10-14 18:36:11	127.0.0.1	klab	test	sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "hello"
+?>
+2020-10-14 18:39:54	127.0.0.1	klab	test	sample.php	err	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "hello
+?>
+2020-10-14 18:40:58	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello
+?>
+2020-10-14 18:43:07	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello
+?>
+2020-10-14 18:43:08	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello
+?>
+2020-10-14 18:43:18	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+echo "hello
+?>
+2020-10-14 18:44:58	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+$a = 10
+if (a<10){
+	echo "OK";
+}
+else{ echo "NG";
+?>
+2020-10-14 18:44:59	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+$a = 10
+if (a<10){
+	echo "OK";
+}
+else{ echo "NG";
+?>
+2020-10-14 18:45:10	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br></div>	<?php
+$a = 10
+if (a<10){
+	echo "OK";
+}
+else{ echo "NG";
+?>
+2020-10-14 18:48:01	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br>Errors parsing /var/www/html/php/saccess_PHP/userfile/klab/test/sample.php</div>	<?php
+$a = 10
+if (a<10){
+	echo "OK";
+}
+else{ echo "NG";
+?>
+2020-10-14 18:49:10	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br>Errors parsing /var/www/html/php/saccess_PHP/userfile/klab/test/sample.php</div>	<?php
+$a = 10
+echo $a
+?>
+2020-10-14 18:49:11	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br>Errors parsing /var/www/html/php/saccess_PHP/userfile/klab/test/sample.php</div>	<?php
+$a = 10
+echo $a
+?>
+2020-10-14 18:49:18	127.0.0.1	klab	test	sample.php	ok	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br>Errors parsing /var/www/html/php/saccess_PHP/userfile/klab/test/sample.php</div>	<?php
+$a = 10;
+echo $a
+?>
+2020-10-14 18:49:19	127.0.0.1	klab	test	sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+$a = 10;
+echo $a
+?>
+2020-10-14 18:52:10	127.0.0.1	klab	test	sample.php	err	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+$a = 10
+echo $a
+?>
+2020-10-16 10:23:22	127.0.0.1	klab	test	sample.php	err	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br>Errors parsing /var/www/html/php/saccess_PHP/userfile/klab/test/sample.php</div>	<?php
+$a = 10
+echo $a
+?>
+2020-10-16 10:23:31	127.0.0.1	klab	test	sample.php	ok	# <div style="border:1px solid;"><div class="alert alert-danger">エラーがありました。</div><br>Errors parsing /var/www/html/php/saccess_PHP/userfile/klab/test/sample.php</div>	<?php
+$a = 10;
+echo $a;
+?>
+2020-10-16 10:23:32	127.0.0.1	klab	test	sample.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+$a = 10;
+echo $a;
+?>
+2020-10-16 10:32:04	127.0.0.1	klab	test	sg.php	ok	# 	<?php
+echo "bbb";
+?>
+2020-10-16 10:32:04	127.0.0.1	klab	test	sg.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "bbb";
+?>
+2020-10-16 10:32:26	127.0.0.1	klab	test	sg.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "bbb";
+?>
+2020-10-17 15:32:20	127.0.0.1	klab	test	sample.php	ok	# 	<?php
+$a = 10;
+echo $a;
+?>
+2020-10-19 23:09:42	127.0.0.1	klab	test	sg.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "bbb";
+?>
+2020-10-19 23:10:07	127.0.0.1	klab	test	sg.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "bbb";
+?>
+2020-10-23 11:10:58	127.0.0.1	klab	test	sg.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "bbb";
+?>
+2020-10-30 18:18:46	127.0.0.1	klab	test	sg.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "bbbx";
+?>
+2020-10-30 18:18:47	127.0.0.1	klab	test	sg.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "bbbx";
+?>
+2020-10-30 18:22:39	127.0.0.1	klab	test	sg.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php
+echo "bbbx";
+?>
+2020-10-30 18:24:06	127.0.0.1	klab	test	t.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php  echo "abc"; ?>
+
+2020-10-30 18:24:31	127.0.0.1	klab	test	t.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php echo "bas"; ?>
+2020-10-30 18:24:33	127.0.0.1	klab	test	t.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php echo "bas"; ?>
+2020-10-30 18:41:06	127.0.0.1	klab	test	long.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2020-10-30 18:41:26	127.0.0.1	klab	test	long.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bababababababababababababababababababababababababababa
+2020-10-30 18:41:27	127.0.0.1	klab	test	long.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bababababababababababababababababababababababababababa
+2020-10-30 18:42:29	127.0.0.1	klab	test	long.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	
+2020-10-30 19:05:03	127.0.0.1	klab	test	long.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php echo "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ"; ?>
+2020-10-30 19:05:06	127.0.0.1	klab	test	long.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php echo "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ"; ?>
+2020-10-30 19:05:18	127.0.0.1	klab	test	long.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2020-10-30 19:05:18	127.0.0.1	klab	test	long.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2020-11-03 12:27:28	127.0.0.1	klab	test	t.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php echo "bas"; ?>
+2020-11-03 12:39:23	127.0.0.1	klab	test	t.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php echo "bas"; ?>
+2020-11-03 12:41:51	127.0.0.1	klab	test	t.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php echo "bas"; ?>
+2020-11-03 17:36:40	127.0.0.1	klab	test	t.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php echo "bas"; ?>
+2020-11-06 11:29:27	127.0.0.1	klab	test	t.php	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	<?php echo "bas"; ?>

@@ -1,0 +1,2 @@
+2020-10-17 16:43:07	127.0.0.1	klab	test	class1	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaa
+2020-10-17 16:44:38	127.0.0.1	klab	test	class1	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaa

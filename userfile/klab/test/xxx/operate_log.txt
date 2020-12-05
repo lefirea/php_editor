@@ -1,0 +1,49 @@
+2020-10-17 14:57:37	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 14:57:38	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 15:32:09	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 15:32:11	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 15:32:21	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 15:32:22	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 15:32:25	127.0.0.1	klab	test	xxx	a.html	btn_ok
+2020-10-17 15:32:26	127.0.0.1	klab	test	xxx	a.html	btn_runfile
+2020-10-17 15:32:33	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 15:32:33	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 15:33:08	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 15:33:09	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:05:14	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:05:15	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:05:19	127.0.0.1	klab	test	xxx	a.html	btn_ok
+2020-10-17 17:05:30	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:05:31	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:06:25	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:06:26	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:06:30	127.0.0.1	klab	test	xxx	a.html	btn_ok
+2020-10-17 17:06:33	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:06:34	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:06:41	127.0.0.1	klab	test	xxx	none	btn_newfile
+2020-10-17 17:06:48	127.0.0.1	klab	test	xxx	b.html	btn_ok
+2020-10-17 17:06:50	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:06:51	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:06:51	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:06:57	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:06:58	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:07:01	127.0.0.1	klab	test	xxx	b.html	btn_ok
+2020-10-17 17:07:04	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:07:05	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:07:16	127.0.0.1	klab	test	xxx	b.html	btn_trash
+2020-10-17 17:07:18	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:07:19	127.0.0.1	klab	test	xxx	a.html	btn_trash
+2020-10-17 17:07:48	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:07:49	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:09:25	127.0.0.1	klab	test	xxx	a.html	btn_ok
+2020-10-17 17:09:30	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:09:31	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:09:51	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:09:52	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:10:00	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:10:02	127.0.0.1	klab	test	xxx		click_list
+2020-10-17 17:10:03	127.0.0.1	klab	test	xxx		click_list
+2020-10-30 18:19:00	127.0.0.1	klab	test	xxx		click_list
+2020-10-30 18:19:01	127.0.0.1	klab	test	xxx		click_list
+2020-10-30 18:19:02	127.0.0.1	klab	test	xxx		click_list
+2020-10-30 18:19:03	127.0.0.1	klab	test	xxx		click_list

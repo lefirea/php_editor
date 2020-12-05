@@ -1,0 +1,2 @@
+2020-10-20 11:14:51	127.0.0.1	klab	template	test		click_list
+2020-10-20 11:15:00	127.0.0.1	klab	template	test	a.html	btn_ok

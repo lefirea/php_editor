@@ -1,0 +1,6 @@
+2020-10-16 10:34:38	127.0.0.1	klab	template	xxx	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaa
+2020-10-17 15:29:16	127.0.0.1	klab	template	xxx	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaa
+2020-10-17 15:32:01	127.0.0.1	klab	template	xxx	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaa
+2020-10-17 15:32:03	127.0.0.1	klab	template	xxx	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaa
+2020-10-17 17:07:42	127.0.0.1	klab	template	xxx	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaa.htm
+2020-10-17 17:09:44	127.0.0.1	klab	template	xxx	a.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>	aaa.html

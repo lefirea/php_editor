@@ -1,0 +1,1 @@
+2020-10-17 17:10:28	127.0.0.1	klab	template	class2	b.html	ok	# <div class="alert alert-success">エラーはありませんでした。</div>

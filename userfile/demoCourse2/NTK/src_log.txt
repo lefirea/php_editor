@@ -1,0 +1,12 @@
+2018-07-31 17:24:15	150.46.201.24	demoCourse2	NTK		ok	# 	aaa,bbb
+ccc,ddd
+2018-07-31 17:24:26	150.46.201.24	demoCourse2	NTK		ok	# 	aaa,bbb
+ccc,ddd
+2018-07-31 17:24:47	150.46.201.24	demoCourse2	NTK	pass.php	ok	# 	test,aaa
+test,bbb
+test,ccc
+2018-07-31 17:25:01	150.46.201.24	demoCourse2	NTK	pass.php	ok	# 	test,aaa
+test,bbb
+test,ccc
+2018-07-31 17:25:07	150.46.201.24	demoCourse2	NTK		ok	# 	
+2018-07-31 17:27:04	150.46.201.24	demoCourse2	NTK	test.js	ok	# 	

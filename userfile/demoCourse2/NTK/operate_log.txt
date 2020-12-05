@@ -1,0 +1,12 @@
+2018-07-31 17:24:15	150.46.201.24	demoCourse2	NTK		btn_ok
+2018-07-31 17:24:26	150.46.201.24	demoCourse2	NTK		btn_ok
+2018-07-31 17:24:33	150.46.201.24	demoCourse2	NTK		click_list
+2018-07-31 17:24:35	150.46.201.24	demoCourse2	NTK	none	btn_newfile
+2018-07-31 17:24:47	150.46.201.24	demoCourse2	NTK	pass.php	btn_ok
+2018-07-31 17:24:49	150.46.201.24	demoCourse2	NTK		click_list
+2018-07-31 17:24:50	150.46.201.24	demoCourse2	NTK		click_list
+2018-07-31 17:24:51	150.46.201.24	demoCourse2	NTK		click_list
+2018-07-31 17:25:01	150.46.201.24	demoCourse2	NTK	pass.php	btn_ok
+2018-07-31 17:25:02	150.46.201.24	demoCourse2	NTK	none	btn_newfile
+2018-07-31 17:25:07	150.46.201.24	demoCourse2	NTK		btn_ok
+2018-07-31 17:27:04	150.46.201.24	demoCourse2	NTK	test.js	btn_ok
